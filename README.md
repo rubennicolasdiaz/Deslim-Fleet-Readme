@@ -20,4 +20,4 @@ Los usuarios ven los diferentes barcos y las zonas que ya han sido inspeccionada
 
 Como se ha indicado al principio, se mantienen conversaciones con responsables de algunas navieras que trabajan en España para comercializar y distribuir la app. Está previsto que se despliegue en Google Play, o bien con una monetización de suscripción o por pago por descarga por cada dispositivo. 
 
-Para mayor información, se puede visitar el vídeo explicativo de cómo se realiza una revisión de una zona de un barco en Youtube: [(https://youtu.be/T_02t57-XPM)]
+Para mayor información, se puede visitar el vídeo explicativo de cómo se realiza una revisión de una zona de un barco en Youtube: https://youtu.be/1__sq18IFZw
